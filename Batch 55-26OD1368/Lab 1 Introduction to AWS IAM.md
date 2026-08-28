@@ -395,6 +395,16 @@ A panel indicates that *You may close this message box now...*
 62. Select the **X** in the top-right corner to close the panel.
 
 ---
+## Output
+
+<img width="1600" height="809" alt="WhatsApp Image 2026-08-28 at 3 33 58 PM" src="https://github.com/user-attachments/assets/b9fe259a-13fa-49e3-b827-edeadc24a8f4" />
+
+
+<img width="1791" height="878" alt="image" src="https://github.com/user-attachments/assets/11716a8f-3319-49b6-921e-4dc862dd103a" />
+
+<img width="1768" height="890" alt="image" src="https://github.com/user-attachments/assets/a9957be7-1da2-4cad-a30b-bdda03515dc2" />
+
+<img width="1767" height="890" alt="image" src="https://github.com/user-attachments/assets/911bf4e1-d337-493d-a6e8-221cf8c24c6b" />
 
 ## Conclusion
 
