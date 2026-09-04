@@ -367,7 +367,15 @@ Congratulations! You have completed the lab.
 
 ## Output
 
-<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/738eed22-0f29-494d-8b9b-3b524b3c7ee3" />
+<img width="1185" height="296" alt="image" src="https://github.com/user-attachments/assets/5605b01c-f075-4aeb-b673-2f6119fa3ab0" />
+
+<img width="1181" height="298" alt="image" src="https://github.com/user-attachments/assets/3f727dbd-bd89-4ecb-ac0a-e9071d5b27f0" />
+
+<img width="1192" height="346" alt="image" src="https://github.com/user-attachments/assets/f50a5fe5-431a-4168-839a-169ecb1823b5" />
+
+<img width="1186" height="260" alt="image" src="https://github.com/user-attachments/assets/f2b8dfb9-7f0c-470b-a36b-f02a8414b04f" />
+
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/1e38aa67-6dbe-45d4-bf43-a99620d5c8d8" />
 
 Choose End Lab at the top of this page, and then select Yes to confirm that you want to end the lab.
 
